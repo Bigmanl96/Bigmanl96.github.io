@@ -1,0 +1,39 @@
+/* div{
+    color:green;
+    background-color: forestgreen;
+    width: 20%;
+    height:300px;
+} /*
+
+#frame {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+    position: absolute;
+    z-index: 99;
+}
+
+#stones {
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto;  /*
+    top:110px;
+    left:100px;
+    width: 40%;
+    position:absolute;
+    z-index:1;
+}
+
+#sword{
+    position:absolute;
+    left:350px;
+    top:150px;
+    z-index:2;
+    width:5%;
+}
+
+#crow{
+    position:absolute;
+    left:480px
+

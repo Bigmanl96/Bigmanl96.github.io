@@ -1,0 +1,99 @@
+/* div{
+    color:green;
+    background-color: forestgreen;
+    width: 20%;
+    height:300px;
+} */
+#welcome{
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    font-size: 14x;
+    color: green
+
+}
+
+#DOOMED{
+    text-align: center;
+    border: 5px solid orangered;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    font-size: 50px;
+    color: yellowgreen
+}
+
+#blankbox{
+    border-style: solid;
+    color:red;
+    width: 120px
+}
+
+#blankbox2{
+    position: relative;
+    top: 30px;
+    border-style: solid;
+    color: blue;
+    width: 120px
+    
+}
+#youtubelogo{
+    width: 20px;
+    
+}
+
+#instagramlogo{
+    width: 20px;
+}
+
+#twitterlogo{
+    width: 40px;
+}
+
+#facebooklogo{
+    width: 20px;
+    
+}
+.MyBiography{
+    position: relative;
+    top: -140px;
+    right: -1250px;
+}
+.home{
+    position: relative;
+    top: -20px;
+    right: -1140px;
+}
+#snapchatlogo{
+    width: 25px;
+    
+}
+
+#homelogo{
+    width: 20px;
+    
+}
+
+#QUIZ{
+    position: relative;
+    top: -140px;
+    right: -975px;
+}
+
+
+
+#skullcrossbones{
+    width: 80px;
+
+}
+
+#satankissing{
+    width: 1220px;
+    
+}
+    
+#Quizlogo{
+    width: 90px;
+    position: relative;
+    top: -150px;
+    right: -1050px;
+}

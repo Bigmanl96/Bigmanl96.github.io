@@ -56,12 +56,12 @@
 .MyBiography{
     position: relative;
     top: -140px;
-    right: -1250px;
+    right: -575px;
 }
 .home{
     position: relative;
-    top: -20px;
-    right: -1140px;
+    top: -80px;
+    right: -1010px;
 }
 #snapchatlogo{
     width: 25px;
@@ -96,4 +96,101 @@
     position: relative;
     top: -150px;
     right: -1050px;
+}
+
+#images2{
+    position: relative;
+    top: 90px;
+    left: -275px;
+}
+
+#arrowimg{
+    position: relative;
+    top: 100px;
+    left: -100px;
+}
+
+#IMG-0440{
+    width: 190px;
+}
+
+#IMG-0441{
+    width: 190px;
+}
+
+#IMG-0446{
+    width: 190px;
+}
+
+#IMG-0451{
+    width:190px;
+}
+
+#IMG-0452{
+    width:190px;
+
+}
+
+#IMG-0454{
+    width:190px;
+}
+
+#IMG-0524{
+    width: 190px;
+}
+
+#IMG-0527{
+    width: 190px;
+}
+
+#IMG-0534{
+    width: 190px;
+}
+
+#IMG-0543{
+    width: 190px;
+}
+
+#IMG-0545{
+    width: 190px;
+}
+
+#IMG-0550{
+    width: 190px;
+}
+
+#places{ text-align: center;
+    border: 5px solid orangered;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    font-size: 50px;
+    color: teal
+}
+
+#PLACES2{
+    position: relative;
+    top: 50px;
+    left:-1150px;
+
+}
+
+#PLACES3{
+    position: relative;
+    top: 150px;
+    left:10px;
+
+}
+
+#williamsburgbridge{
+    width: 100%;
+}
+
+
+#QUIZ2{
+    border-width: 10px;
+    border-color: gold;
+    border-style: dotted solid;
+    width: 1100px;
+    height: 1100px;
+ 
 }

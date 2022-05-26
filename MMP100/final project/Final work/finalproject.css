@@ -1,0 +1,56 @@
+#FinalProject{
+    position: relative;
+}
+
+#finalproject{
+    position: relative;
+    width: 750px;
+    
+}
+
+#trailerwork{
+    position: relative;
+    width: 475px;
+    height: 550px;
+    top: -10px;
+    left: -750px;
+}
+
+#inbound{
+    position: relative;
+    width: 850px;
+    left: 750px;
+    top: -400px;
+    
+}
+
+#alwayspushneverpull{
+    position: relative;
+    top: -250px;
+    left: 600px;
+    width: 750px;
+}
+
+#blankbox{
+    border-style: solid;
+    color:black;
+    width: 1350px
+}
+
+#HUMOR{
+    position: relative;
+    top: -150px;
+    left: 10px;
+}
+
+.BOXES{
+    position: relative;
+    top: 5px;
+    right: -700px;
+}
+
+.VIRUS{
+    position: relative;
+    top: -200px;
+    left: -700px;
+}
